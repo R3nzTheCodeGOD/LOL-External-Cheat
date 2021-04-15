@@ -9,7 +9,7 @@
 - Change Profile Background
 - Change Rank
 - View skin purchase dates
-- ARAM BOOST
+- ARAM BOOST **It was fixed, but I managed to Hack it again. You can use it from [here](https://github.com/R3nzTheCodeGOD/LOL-Aram-Boost-Exploit).**
 - Custom Request(Using [LCU](https://lcu.vivide.re))
 
 ## Ban risk
